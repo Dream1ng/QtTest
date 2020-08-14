@@ -10,3 +10,5 @@
 /.vs/QtTest/v16
 /ListenWindPlayer/x64
 /x64/Release
+/Qss/x64
+*.user
