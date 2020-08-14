@@ -1,0 +1,12 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/x64/Debug
+/UseQss/x64/Debug
+/UseQss/x64/Release/qmake
+/Common/*.user
+/UseQss/*.user
+/.vs/QtTest/v16
+/ListenWindPlayer/x64
+/x64/Release
