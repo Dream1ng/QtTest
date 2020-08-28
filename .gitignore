@@ -12,3 +12,5 @@
 /x64/Release
 /Qss/x64
 *.user
+/AddressBook/x64
+/Common/x64

@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ListenWindPlayer", "ListenW
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Qss", "Qss\Qss.vcxproj", "{70B611E5-83DF-4DF2-87B0-F33367BFF5E9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AddressBook", "AddressBook\AddressBook.vcxproj", "{2205061F-1A97-4452-ABB9-7EBD184921F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -45,6 +47,12 @@ Global
 		{70B611E5-83DF-4DF2-87B0-F33367BFF5E9}.Release|x64.ActiveCfg = Release|x64
 		{70B611E5-83DF-4DF2-87B0-F33367BFF5E9}.Release|x64.Build.0 = Release|x64
 		{70B611E5-83DF-4DF2-87B0-F33367BFF5E9}.Release|x86.ActiveCfg = Release|x64
+		{2205061F-1A97-4452-ABB9-7EBD184921F2}.Debug|x64.ActiveCfg = Debug|x64
+		{2205061F-1A97-4452-ABB9-7EBD184921F2}.Debug|x64.Build.0 = Debug|x64
+		{2205061F-1A97-4452-ABB9-7EBD184921F2}.Debug|x86.ActiveCfg = Debug|x64
+		{2205061F-1A97-4452-ABB9-7EBD184921F2}.Release|x64.ActiveCfg = Release|x64
+		{2205061F-1A97-4452-ABB9-7EBD184921F2}.Release|x64.Build.0 = Release|x64
+		{2205061F-1A97-4452-ABB9-7EBD184921F2}.Release|x86.ActiveCfg = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
