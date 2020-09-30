@@ -23,6 +23,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProgressDialog", "ProgressD
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chip", "Chip\Chip.vcxproj", "{1657CF6B-61D9-4E1F-8C25-F0081584F492}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AnchorLayout", "AnchorLayout\AnchorLayout.vcxproj", "{8CEC24A6-B9A1-4D0B-B600-BC3A28EDE1BA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AreaChart", "AreaChart\AreaChart.vcxproj", "{6C64107D-B5EF-4BF4-B805-B9363B1C32C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -93,6 +97,18 @@ Global
 		{1657CF6B-61D9-4E1F-8C25-F0081584F492}.Release|x64.ActiveCfg = Release|x64
 		{1657CF6B-61D9-4E1F-8C25-F0081584F492}.Release|x64.Build.0 = Release|x64
 		{1657CF6B-61D9-4E1F-8C25-F0081584F492}.Release|x86.ActiveCfg = Release|x64
+		{8CEC24A6-B9A1-4D0B-B600-BC3A28EDE1BA}.Debug|x64.ActiveCfg = Debug|x64
+		{8CEC24A6-B9A1-4D0B-B600-BC3A28EDE1BA}.Debug|x64.Build.0 = Debug|x64
+		{8CEC24A6-B9A1-4D0B-B600-BC3A28EDE1BA}.Debug|x86.ActiveCfg = Debug|x64
+		{8CEC24A6-B9A1-4D0B-B600-BC3A28EDE1BA}.Release|x64.ActiveCfg = Release|x64
+		{8CEC24A6-B9A1-4D0B-B600-BC3A28EDE1BA}.Release|x64.Build.0 = Release|x64
+		{8CEC24A6-B9A1-4D0B-B600-BC3A28EDE1BA}.Release|x86.ActiveCfg = Release|x64
+		{6C64107D-B5EF-4BF4-B805-B9363B1C32C5}.Debug|x64.ActiveCfg = Debug|x64
+		{6C64107D-B5EF-4BF4-B805-B9363B1C32C5}.Debug|x64.Build.0 = Debug|x64
+		{6C64107D-B5EF-4BF4-B805-B9363B1C32C5}.Debug|x86.ActiveCfg = Debug|x64
+		{6C64107D-B5EF-4BF4-B805-B9363B1C32C5}.Release|x64.ActiveCfg = Release|x64
+		{6C64107D-B5EF-4BF4-B805-B9363B1C32C5}.Release|x64.Build.0 = Release|x64
+		{6C64107D-B5EF-4BF4-B805-B9363B1C32C5}.Release|x86.ActiveCfg = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
