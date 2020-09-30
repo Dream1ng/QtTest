@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/MainWindow"/>
+    <qresource prefix="/">
+        <file>Images/fileprint.png</file>
+        <file>Images/qt4logo.png</file>
+        <file>Images/rotateleft.png</file>
+        <file>Images/rotateright.png</file>
+        <file>Images/zoomin.png</file>
+        <file>Images/zoomout.png</file>
+    </qresource>
+</RCC>

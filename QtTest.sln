@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LoginDialog", "LoginDialog\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProgressDialog", "ProgressDialog\ProgressDialog.vcxproj", "{61958C6D-4A15-4152-9996-73CE156E5D3E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chip", "Chip\Chip.vcxproj", "{1657CF6B-61D9-4E1F-8C25-F0081584F492}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -85,6 +87,12 @@ Global
 		{61958C6D-4A15-4152-9996-73CE156E5D3E}.Release|x64.ActiveCfg = Release|x64
 		{61958C6D-4A15-4152-9996-73CE156E5D3E}.Release|x64.Build.0 = Release|x64
 		{61958C6D-4A15-4152-9996-73CE156E5D3E}.Release|x86.ActiveCfg = Release|x64
+		{1657CF6B-61D9-4E1F-8C25-F0081584F492}.Debug|x64.ActiveCfg = Debug|x64
+		{1657CF6B-61D9-4E1F-8C25-F0081584F492}.Debug|x64.Build.0 = Debug|x64
+		{1657CF6B-61D9-4E1F-8C25-F0081584F492}.Debug|x86.ActiveCfg = Debug|x64
+		{1657CF6B-61D9-4E1F-8C25-F0081584F492}.Release|x64.ActiveCfg = Release|x64
+		{1657CF6B-61D9-4E1F-8C25-F0081584F492}.Release|x64.Build.0 = Release|x64
+		{1657CF6B-61D9-4E1F-8C25-F0081584F492}.Release|x86.ActiveCfg = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
