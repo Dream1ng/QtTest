@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/AnimatedTiles"/>
+    <qresource prefix="/">
+        <file>Images/centered.png</file>
+        <file>Images/ellipse.png</file>
+        <file>Images/figure8.png</file>
+        <file>Images/kinetic.png</file>
+        <file>Images/random.png</file>
+        <file>Images/tile.png</file>
+        <file>Images/Time-For-Lunch-2.jpg</file>
+    </qresource>
+</RCC>

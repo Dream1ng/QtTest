@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AnchorLayout", "AnchorLayou
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AreaChart", "AreaChart\AreaChart.vcxproj", "{6C64107D-B5EF-4BF4-B805-B9363B1C32C5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AnimatedTiles", "AnimatedTiles\AnimatedTiles.vcxproj", "{9CB9E671-F2FE-4EF9-91B7-517052D0C916}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -109,6 +111,12 @@ Global
 		{6C64107D-B5EF-4BF4-B805-B9363B1C32C5}.Release|x64.ActiveCfg = Release|x64
 		{6C64107D-B5EF-4BF4-B805-B9363B1C32C5}.Release|x64.Build.0 = Release|x64
 		{6C64107D-B5EF-4BF4-B805-B9363B1C32C5}.Release|x86.ActiveCfg = Release|x64
+		{9CB9E671-F2FE-4EF9-91B7-517052D0C916}.Debug|x64.ActiveCfg = Debug|x64
+		{9CB9E671-F2FE-4EF9-91B7-517052D0C916}.Debug|x64.Build.0 = Debug|x64
+		{9CB9E671-F2FE-4EF9-91B7-517052D0C916}.Debug|x86.ActiveCfg = Debug|x64
+		{9CB9E671-F2FE-4EF9-91B7-517052D0C916}.Release|x64.ActiveCfg = Release|x64
+		{9CB9E671-F2FE-4EF9-91B7-517052D0C916}.Release|x64.Build.0 = Release|x64
+		{9CB9E671-F2FE-4EF9-91B7-517052D0C916}.Release|x86.ActiveCfg = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
