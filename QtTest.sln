@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTest", "UnitTest\UnitTe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Input Handing for Axes", "Input Handing for Axes\Input Handing for Axes.vcxproj", "{EE6208D4-0217-4092-8AA3-A81F47EF758A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BarChart", "BarChart\BarChart.vcxproj", "{8BA8C015-B32D-4AE9-8F65-FA7F2B1129EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -159,6 +161,12 @@ Global
 		{EE6208D4-0217-4092-8AA3-A81F47EF758A}.Release|x64.ActiveCfg = Release|x64
 		{EE6208D4-0217-4092-8AA3-A81F47EF758A}.Release|x64.Build.0 = Release|x64
 		{EE6208D4-0217-4092-8AA3-A81F47EF758A}.Release|x86.ActiveCfg = Release|x64
+		{8BA8C015-B32D-4AE9-8F65-FA7F2B1129EC}.Debug|x64.ActiveCfg = Debug|x64
+		{8BA8C015-B32D-4AE9-8F65-FA7F2B1129EC}.Debug|x64.Build.0 = Debug|x64
+		{8BA8C015-B32D-4AE9-8F65-FA7F2B1129EC}.Debug|x86.ActiveCfg = Debug|x64
+		{8BA8C015-B32D-4AE9-8F65-FA7F2B1129EC}.Release|x64.ActiveCfg = Release|x64
+		{8BA8C015-B32D-4AE9-8F65-FA7F2B1129EC}.Release|x64.Build.0 = Release|x64
+		{8BA8C015-B32D-4AE9-8F65-FA7F2B1129EC}.Release|x86.ActiveCfg = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
