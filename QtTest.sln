@@ -29,6 +29,16 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AreaChart", "AreaChart\Area
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AnimatedTiles", "AnimatedTiles\AnimatedTiles.vcxproj", "{9CB9E671-F2FE-4EF9-91B7-517052D0C916}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Audio", "Audio\Audio.vcxproj", "{25F5DC88-F059-47EE-B98C-CB0E96D0BE5C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AudioInput", "AudioInput\AudioInput.vcxproj", "{054B56CE-0C34-4E64-A759-DAF86E33E602}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZoomLineChart", "ZoomLineChart\ZoomLineChart.vcxproj", "{0CBBBE94-1407-499B-AC3F-3462621F83E8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTest", "UnitTest\UnitTest.vcxproj", "{46ECF23E-B7ED-4CDE-A97F-A01CB18144B9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Input Handing for Axes", "Input Handing for Axes\Input Handing for Axes.vcxproj", "{EE6208D4-0217-4092-8AA3-A81F47EF758A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -117,6 +127,38 @@ Global
 		{9CB9E671-F2FE-4EF9-91B7-517052D0C916}.Release|x64.ActiveCfg = Release|x64
 		{9CB9E671-F2FE-4EF9-91B7-517052D0C916}.Release|x64.Build.0 = Release|x64
 		{9CB9E671-F2FE-4EF9-91B7-517052D0C916}.Release|x86.ActiveCfg = Release|x64
+		{25F5DC88-F059-47EE-B98C-CB0E96D0BE5C}.Debug|x64.ActiveCfg = Debug|x64
+		{25F5DC88-F059-47EE-B98C-CB0E96D0BE5C}.Debug|x64.Build.0 = Debug|x64
+		{25F5DC88-F059-47EE-B98C-CB0E96D0BE5C}.Debug|x86.ActiveCfg = Debug|x64
+		{25F5DC88-F059-47EE-B98C-CB0E96D0BE5C}.Release|x64.ActiveCfg = Release|x64
+		{25F5DC88-F059-47EE-B98C-CB0E96D0BE5C}.Release|x64.Build.0 = Release|x64
+		{25F5DC88-F059-47EE-B98C-CB0E96D0BE5C}.Release|x86.ActiveCfg = Release|x64
+		{054B56CE-0C34-4E64-A759-DAF86E33E602}.Debug|x64.ActiveCfg = Debug|x64
+		{054B56CE-0C34-4E64-A759-DAF86E33E602}.Debug|x64.Build.0 = Debug|x64
+		{054B56CE-0C34-4E64-A759-DAF86E33E602}.Debug|x86.ActiveCfg = Debug|x64
+		{054B56CE-0C34-4E64-A759-DAF86E33E602}.Release|x64.ActiveCfg = Release|x64
+		{054B56CE-0C34-4E64-A759-DAF86E33E602}.Release|x64.Build.0 = Release|x64
+		{054B56CE-0C34-4E64-A759-DAF86E33E602}.Release|x86.ActiveCfg = Release|x64
+		{0CBBBE94-1407-499B-AC3F-3462621F83E8}.Debug|x64.ActiveCfg = Debug|x64
+		{0CBBBE94-1407-499B-AC3F-3462621F83E8}.Debug|x64.Build.0 = Debug|x64
+		{0CBBBE94-1407-499B-AC3F-3462621F83E8}.Debug|x86.ActiveCfg = Debug|x64
+		{0CBBBE94-1407-499B-AC3F-3462621F83E8}.Release|x64.ActiveCfg = Release|x64
+		{0CBBBE94-1407-499B-AC3F-3462621F83E8}.Release|x64.Build.0 = Release|x64
+		{0CBBBE94-1407-499B-AC3F-3462621F83E8}.Release|x86.ActiveCfg = Release|x64
+		{46ECF23E-B7ED-4CDE-A97F-A01CB18144B9}.Debug|x64.ActiveCfg = Debug|x64
+		{46ECF23E-B7ED-4CDE-A97F-A01CB18144B9}.Debug|x64.Build.0 = Debug|x64
+		{46ECF23E-B7ED-4CDE-A97F-A01CB18144B9}.Debug|x86.ActiveCfg = Debug|Win32
+		{46ECF23E-B7ED-4CDE-A97F-A01CB18144B9}.Debug|x86.Build.0 = Debug|Win32
+		{46ECF23E-B7ED-4CDE-A97F-A01CB18144B9}.Release|x64.ActiveCfg = Release|x64
+		{46ECF23E-B7ED-4CDE-A97F-A01CB18144B9}.Release|x64.Build.0 = Release|x64
+		{46ECF23E-B7ED-4CDE-A97F-A01CB18144B9}.Release|x86.ActiveCfg = Release|Win32
+		{46ECF23E-B7ED-4CDE-A97F-A01CB18144B9}.Release|x86.Build.0 = Release|Win32
+		{EE6208D4-0217-4092-8AA3-A81F47EF758A}.Debug|x64.ActiveCfg = Debug|x64
+		{EE6208D4-0217-4092-8AA3-A81F47EF758A}.Debug|x64.Build.0 = Debug|x64
+		{EE6208D4-0217-4092-8AA3-A81F47EF758A}.Debug|x86.ActiveCfg = Debug|x64
+		{EE6208D4-0217-4092-8AA3-A81F47EF758A}.Release|x64.ActiveCfg = Release|x64
+		{EE6208D4-0217-4092-8AA3-A81F47EF758A}.Release|x64.Build.0 = Release|x64
+		{EE6208D4-0217-4092-8AA3-A81F47EF758A}.Release|x86.ActiveCfg = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
