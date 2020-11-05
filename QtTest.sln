@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BarChart", "BarChart\BarCha
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BarModelMapper", "BarModelMapper\BarModelMapper.vcxproj", "{D7BD1E85-737C-4411-BB02-9A326DC4C5C1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BasicDrawing", "BasicDrawing\BasicDrawing.vcxproj", "{8EBC0007-6C77-4172-B0E3-01670038B170}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -175,6 +177,12 @@ Global
 		{D7BD1E85-737C-4411-BB02-9A326DC4C5C1}.Release|x64.ActiveCfg = Release|x64
 		{D7BD1E85-737C-4411-BB02-9A326DC4C5C1}.Release|x64.Build.0 = Release|x64
 		{D7BD1E85-737C-4411-BB02-9A326DC4C5C1}.Release|x86.ActiveCfg = Release|x64
+		{8EBC0007-6C77-4172-B0E3-01670038B170}.Debug|x64.ActiveCfg = Debug|x64
+		{8EBC0007-6C77-4172-B0E3-01670038B170}.Debug|x64.Build.0 = Debug|x64
+		{8EBC0007-6C77-4172-B0E3-01670038B170}.Debug|x86.ActiveCfg = Debug|x64
+		{8EBC0007-6C77-4172-B0E3-01670038B170}.Release|x64.ActiveCfg = Release|x64
+		{8EBC0007-6C77-4172-B0E3-01670038B170}.Release|x64.Build.0 = Release|x64
+		{8EBC0007-6C77-4172-B0E3-01670038B170}.Release|x86.ActiveCfg = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
