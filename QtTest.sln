@@ -45,6 +45,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BarModelMapper", "BarModelM
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BasicDrawing", "BasicDrawing\BasicDrawing.vcxproj", "{8EBC0007-6C77-4172-B0E3-01670038B170}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fortune Server", "Fortune Server\Fortune Server.vcxproj", "{22F470DD-7837-4D24-9D6E-48CA3287FFEC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FortuneClient", "FortuneClient\FortuneClient.vcxproj", "{8E82F606-109E-4E37-ACF2-3BB59C7EE208}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -183,6 +187,18 @@ Global
 		{8EBC0007-6C77-4172-B0E3-01670038B170}.Release|x64.ActiveCfg = Release|x64
 		{8EBC0007-6C77-4172-B0E3-01670038B170}.Release|x64.Build.0 = Release|x64
 		{8EBC0007-6C77-4172-B0E3-01670038B170}.Release|x86.ActiveCfg = Release|x64
+		{22F470DD-7837-4D24-9D6E-48CA3287FFEC}.Debug|x64.ActiveCfg = Debug|x64
+		{22F470DD-7837-4D24-9D6E-48CA3287FFEC}.Debug|x64.Build.0 = Debug|x64
+		{22F470DD-7837-4D24-9D6E-48CA3287FFEC}.Debug|x86.ActiveCfg = Debug|x64
+		{22F470DD-7837-4D24-9D6E-48CA3287FFEC}.Release|x64.ActiveCfg = Release|x64
+		{22F470DD-7837-4D24-9D6E-48CA3287FFEC}.Release|x64.Build.0 = Release|x64
+		{22F470DD-7837-4D24-9D6E-48CA3287FFEC}.Release|x86.ActiveCfg = Release|x64
+		{8E82F606-109E-4E37-ACF2-3BB59C7EE208}.Debug|x64.ActiveCfg = Debug|x64
+		{8E82F606-109E-4E37-ACF2-3BB59C7EE208}.Debug|x64.Build.0 = Debug|x64
+		{8E82F606-109E-4E37-ACF2-3BB59C7EE208}.Debug|x86.ActiveCfg = Debug|x64
+		{8E82F606-109E-4E37-ACF2-3BB59C7EE208}.Release|x64.ActiveCfg = Release|x64
+		{8E82F606-109E-4E37-ACF2-3BB59C7EE208}.Release|x64.Build.0 = Release|x64
+		{8E82F606-109E-4E37-ACF2-3BB59C7EE208}.Release|x86.ActiveCfg = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
